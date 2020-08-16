@@ -1,0 +1,22 @@
+<form [formGroup]="customerForm">
+  <mat-dialog-content>
+    <mat-form-field>
+      <mat-label>Ваше имя *</mat-label>
+      <input matInput formControlName="name" [(ngModel)]="data.name">
+      <mat-error *ngIf="hasError('name', 'required')">Имя обязательно.</mat-error>
+    </mat-form-field>
+
+    <mat-form-field>
+      <mat-label>Ваш E-Mail</mat-label>
+      <input matInput placeholder="pat@example.com" formControlName="email" [(ngModel)]="data.email" required>
+      <mat-error *ngIf="hasError('email', 'required')">E-Mail обязателен.</mat-error>
+      <mat-error *ngIf="hasError('email', 'email')">Введите Ваш E-Mail.</mat-error>
+    </mat-form-field>
+
+  </mat-dialog-content>
+  <mat-dialog-actions align="center">
+    <button mat-button mat-dialog-close>Отменить</button>
+    <button mat-button [mat-dialog-close]="data" [disabled]="!customerForm.valid">Отправить билет </button>
+  </mat-dialog-actions>
+</form>
+

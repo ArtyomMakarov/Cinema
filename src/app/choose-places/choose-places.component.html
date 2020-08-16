@@ -1,0 +1,54 @@
+<div class="choose-places">
+  <div class="choose-places__row">
+    <div class="choose-places__column">
+      <div class="order-step">
+        <div class="order-step__header">
+          <span><img src="../../assets/icons/correct.svg" alt="icon"></span>
+          <h3>МЕРОПРИЯТИЕ И ДАТА</h3>
+        </div>
+        <div class="order-step__content">
+          <div class="order-info order-info_left">
+            <p>{{getFilm()[0]?.name}}</p>
+            <p>{{today| date:'dd MMMM, EEEE'}}</p>
+            <p>Беларусь, 20:00</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="choose-places__column">
+      <div class="order-step">
+        <div class="order-step__header order-step__header_active">
+          <span>2</span>
+          <h3>ВЫБОР МЕСТ В ЗАЛЕ</h3>
+        </div>
+        <div class="order-step__content">
+          <div class="order-info">
+            <span [hidden]="bookPlaces.length>0">Выберите места</span>
+            <ul [hidden]="bookPlaces.length==0" class="order-info__place">
+              <li *ngFor="let place of bookPlaces">
+                <img src="../../assets/icons/icons8-movie-ticket-30.png" alt="ticket">
+                <span>{{place.id}}</span>
+                <button (click)="cancelBook(place)">Отменить</button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="choose-places__column">
+      <div class="order-step">
+        <div class="order-step__header">
+          <span>3</span>
+          <h3>БРОНИРОВАНИЕ МЕСТ</h3>
+        </div>
+        <div class="order-step__content">
+          <div class="order-info">
+            <button [ngClass]="{'order-info__bookButton_disabled': bookPlaces.length==0, 'order-info__bookButton': bookPlaces.length>0}" [disabled]="bookPlaces.length==0" (click)="openDialog()">Бронировать</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<map-places [film]="getFilm()" [bookPlaces] = "bookPlaces" (bookPlaces)="bookedPlaces($event)"></map-places>
+

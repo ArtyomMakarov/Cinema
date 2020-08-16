@@ -1,0 +1,25 @@
+.pagination {
+  list-style-type: none;
+}
+
+.page-item {
+  display: inline-block;
+}
+
+.page-link:hover, .page-item .Active {
+  background-color: #a70000;
+  color: white;
+}
+
+.page-link {
+  text-decoration: none;
+  color: #000000;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #f7ebeb;
+  margin: 0 3px;
+  border: none;
+  border-radius: 4px;
+  padding: 7px 12px;
+}

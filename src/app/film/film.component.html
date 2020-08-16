@@ -1,0 +1,26 @@
+<div class="film">
+  <div class="film__profile">
+    <div class="film__left-col">
+      <div class="poster">
+        <img [src]="getFilm[0]?.img" [alt]="getFilm[0]?.name">
+      </div>
+    </div>
+    <div class="film__right-col">
+      <h1 class="film-title">{{getFilm[0]?.name}}</h1>
+      <span class="film-day">{{today| date:'dd MMMM, EEEE'}}</span>
+      <div class="choose-time">
+        <div class="choose-time__cinema">Беларусь. (Минск)</div>
+        <div class="choose-time__time">
+          <a class="choose-time__time__link" *ngIf="getFilm[0]" [routerLink]="['/choose_places', getFilm[0]?.name]"><span>20:00</span><img src="../../assets/icons/ticket.svg" alt="Ticket"></a>
+        </div>
+      </div>
+      <div class="film-description">
+        <h3 class="film-description__title">Описание <img src="../../assets/icons/script.svg" alt="Script"></h3>
+        <p>{{getFilm[0]?.info}}</p>
+        <div class="film-description__trailer">
+          <iframe width="260" height="150" src="https://www.youtube.com/embed/1NlbDMNcOeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

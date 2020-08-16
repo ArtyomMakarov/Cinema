@@ -1,0 +1,14 @@
+<section class="films_section">
+  <h2 class="films_date">Фильмы сегодня:<b class="films_date_city">МИНСК</b></h2>
+  <div class="films">
+    <div *ngFor="let film of getFilms()" class="film">
+      <div class="film__image">
+        <a [routerLink]="['/film', film.name]" [title]="film.name"><img [src]="film.img" [alt]="film.name"></a>
+      </div>
+      <div class="film__name">
+        <a [routerLink]="['/film', film.name]" [title]="film.name">{{film.name}}</a>
+      </div>
+      <a [routerLink]="['/film', film.name]" class="film__button">Купить билет</a>
+    </div>
+  </div>
+</section>

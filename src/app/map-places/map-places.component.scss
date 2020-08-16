@@ -1,0 +1,97 @@
+.map-container{
+  background: #dde0e6;
+  border: 1px solid transparent;
+  min-height: calc(100vh - 334px);
+  overflow: hidden;
+}
+.map-places{
+  width: fit-content;
+  margin: 20px auto;
+}
+.screen{
+  margin: 18px 0;
+  width: 100%;
+  height: 45px;
+  border-top: 2px solid gray;
+  border-radius: 50% 40% 0 0;
+  display: block;
+  text-align: center;
+  font-size: 2em;
+}
+.row{
+  display: flex;
+  font-size: 2em;
+  align-items: center;
+  &__place {
+    width: 30px;
+    height: 30px;
+    margin: 5px 6px;
+    background-color: #fff;
+    box-shadow: 0 1px 3px 1px #474747a1;
+    cursor: pointer;
+  }
+  &__place_hover{
+    width: 42px;
+    height: 40px;
+    background-color: #fff;
+    text-align: center;
+    line-height: 40px;
+    box-shadow: unset;
+    cursor: pointer;
+  }
+  &:after{
+    clear: both;
+  }
+  &__number{
+    vertical-align: center;
+    margin: 0 10px;
+    width: 50px;
+  }
+  &__number_left{
+    text-align: right;
+  }
+  &__number_right{
+    text-align: left;
+  }
+}
+.places-info{
+  display: flex;
+  border-top: 2px solid #bec4cb;
+  padding: 20px;
+  text-align: center;
+}
+.info{
+  width: 24%;
+  position: relative;
+  &__place{
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    float: left;
+    position: absolute;
+    top: 1px;
+    background-color: #fff;
+    box-shadow: 0 1px 3px 1px #BBB;
+  }
+  &__place_unavailable{
+    background-color: grey;
+  }
+  &__place_processing{
+    background-color: blue;
+  }
+  &__place_booked{
+    background-color: red;
+  }
+  span{
+    margin-left: 20px;
+  }
+}
+::ng-deep .example-tooltip{
+  width: 40px;
+  height: 40px;
+  background-color: rgba(13, 13, 13, 0.7);
+  font-size: 14px;
+  text-align: center;
+}
+
+

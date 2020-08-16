@@ -1,0 +1,78 @@
+.films {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1020px;
+  margin: 0 auto;
+}
+
+.film {
+  margin: 0 10px 20px;
+  width: 184px;
+}
+
+.film__image img {
+  min-height: 255px;
+  width: 100%;
+
+  &:hover {
+    opacity: 0.7;
+  }
+}
+
+.film__name {
+  text-align: center;
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+
+  a {
+    text-decoration: none;
+    color: black;
+
+    &:hover {
+      text-decoration: underline;
+      color: #a70000;
+    }
+  }
+}
+
+.film__button {
+  width: 115px;
+  height: 30px;
+  line-height: 28px;
+  box-sizing: border-box;
+  font-size: 12px;
+  color: #0089d0;
+  border: 1px solid #0089d0;
+  border-radius: 3px;
+  cursor: pointer;
+  display: block;
+  text-align: center;
+  margin: 10px auto 0;
+  text-decoration: none;
+
+  &:hover {
+    background-color: #0089d0;
+    color: white;
+  }
+}
+
+.films_section {
+  border-top: 1px solid #e2e2e2;
+  border-bottom: 1px solid #e2e2e2;
+  background: #f5eee8;
+  padding: 20px;
+}
+
+.films_date {
+  color: #a70000;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+  margin: 40px 10px 20px;
+  text-transform: uppercase;
+}
+
+.films_date_city {
+  text-decoration: underline;
+}

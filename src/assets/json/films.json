@@ -1,0 +1,4924 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "name": "Джентльмены",
+      "img": "../../assets/img/timthumb2.jpg",
+      "info": "Талантливый выпускник Оксфорда, применив свой уникальный ум и невиданную дерзость, придумал нелегальную схему обогащения, используя поместья обедневшей английской аристократии. Однако когда он решает продать свой бизнес влиятельному клану миллиардеров из США, на его пути встают не менее обаятельные, но жесткие джентльмены. Намечается обмен любезностями, который точно не обойдется без перестрелок и парочки несчастных случаев…",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "blocked"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Отель «Белград»",
+      "img": "../../assets/img/timthumb1.jpg",
+      "info": "Паша, сербский сердцеед и весельчак, — хозяин пятизвездочного отеля в Белграде. Он живет, не зная бед, пока однажды совершенно случайно не портит новое — многомиллионное! — приобретение коллекционера-мафиози. В уплату долга криминальный босс заставляет Пашу жениться на своей дочке. Девушка начинает рьяно готовиться к свадьбе с красавчиком отельером, когда Паша после четырехлетней разлуки неожиданно сталкивается с Дашей, своей русской любовью. В романтичной атмосфере древнего города чувства между ними готовы вспыхнуть вновь…если бы не будущий тесть, настоящий муж, слепой дед и друг-банкрот!..",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "blocked"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "blocked"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "blocked"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Джентльмены",
+      "img": "../../assets/img/timthumb2.jpg",
+      "info": "Талантливый выпускник Оксфорда, применив свой уникальный ум и невиданную дерзость, придумал нелегальную схему обогащения, используя поместья обедневшей английской аристократии. Однако когда он решает продать свой бизнес влиятельному клану миллиардеров из США, на его пути встают не менее обаятельные, но жесткие джентльмены. Намечается обмен любезностями, который точно не обойдется без перестрелок и парочки несчастных случаев…",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Паразиты",
+      "img": "../../assets/img/timthumb3.jpg",
+      "info": "У семьи Ки-тхэка мрачные перспективы — все четверо безработные. Ситуация меняется, когда старшему сыну, Ки-у, друг рекомендует заменить его на высокооплачиваемой подработке репетитора. Тот с помощью сестры делает фальшивые документы об образовании и приходит в роскошный особняк бизнесмена мистера Пака. Произведя хорошее впечатление, Ки-у узнаёт о ещё одной открытой вакансии, и у него появляется очень необычный план по трудоустройству сестры.",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "blocked"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "blocked"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Домовой",
+      "img": "../../assets/img/timthumb4.jpg",
+      "info": "В обычном и суетливом городе Москве есть необычный Дом, обросший сотнями тайн и загадок. В этом доме есть странная квартира, в которой еще надолго не задержался ни один жилец…\n\nИ лишь тогда, когда в эту «милую» квартиру заезжает самостоятельная мама с очаровательной 8-летней дочерью Алиной, новые жильцы узнают, что жилплощадь их — непростая, а живет в ней самый настоящий Домовой. Только вот хранитель очага уже давно обиделся на весь род человеческий и сделает все вообразимые гадости, только бы остаться одному в злополучной квартире. Но всё меняется, когда Домовому бросает вызов злая колдунья…",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Идеальные незнакомцы",
+      "img": "../../assets/img/timthumb5.jpg",
+      "info": "Семеро закадычных друзей, собравшись за ужином, в шутку начинают игру — читать все смс вслух, а на звонки отвечать по громкой связи. Они и представить себе не могут, какие скелеты вылезут из их шкафов и какие удивительные открытия им предстоит сделать.",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Во всё тяжкое",
+      "img": "../../assets/img/timthumb6.jpg",
+      "info": "Профессор колледжа решает жить на полную катушку после того, как ему ставят серьезный диагноз. Отныне все запреты сняты, а тайные желания могут наконец осуществиться!",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Тело Божие (SUB)",
+      "img": "../../assets/img/timthumb7.jpg",
+      "info": "Во время пребывания в молодёжном исправительном центре 20-летний Даниэль переживает духовное преображение. Он хочет стать священником, но его желание не может быть выполнено из-за судимости. Даниэля направляют на работу в столярные мастерские в соседний городок. По дороге он заглядывает в местный костёл и выдаёт себя за священника. Появление в приходе молодого харизматичного проповедника меняет жизнь округи: с подачи Даниэля местные жители начинают изживать коллективную травму, связанную с разыгравшейся здесь трагедией.",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "blocked"
+          },
+          {
+            "status": "blocked"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Сквозь снег",
+      "img": "../../assets/img/timthumb8.jpg",
+      "info": "Недалекое будущее. 17 лет назад на планете произошла техногенная катастрофа. Там, где раньше росли леса и цвели сады, теперь лежат снег и лед, и жизнь сохранилась лишь в гигантском поезде, без остановки мчащемся по трансевразийской магистрали. В первых вагонах состава живёт правящая элита, в последних — простые люди. Жизнь в хвосте поезда напоминает концлагерь — болезни, нищета и беспредел надсмотрщиков. Именно здесь из среды униженных и оскорбленных восстает человек, жаждущий восстановить справедливость. Однако у каждой благородной идеи есть своя темная сторона, и любая революция пожирает своих детей.",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 10,
+      "name": "О бесконечности",
+      "img": "../../assets/img/timthumb9.jpg",
+      "info": "Словно ангелы в «небе над Берлином», они парят над городом подобно влюбленным Марка Шагала. Рассказчица, будто сказочная Шахеразада, плетет кружева городских историй, заглядывает за закрытые окна и проникает в чужие сны, наблюдая за чередой событий обычной жизни с её банальностью и красотой.",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Домовой",
+      "img": "../../assets/img/timthumb4.jpg",
+      "info": "В обычном и суетливом городе Москве есть необычный Дом, обросший сотнями тайн и загадок. В этом доме есть странная квартира, в которой еще надолго не задержался ни один жилец…\n\nИ лишь тогда, когда в эту «милую» квартиру заезжает самостоятельная мама с очаровательной 8-летней дочерью Алиной, новые жильцы узнают, что жилплощадь их — непростая, а живет в ней самый настоящий Домовой. Только вот хранитель очага уже давно обиделся на весь род человеческий и сделает все вообразимые гадости, только бы остаться одному в злополучной квартире. Но всё меняется, когда Домовому бросает вызов злая колдунья…",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Идеальные незнакомцы",
+      "img": "../../assets/img/timthumb5.jpg",
+      "info": "Семеро закадычных друзей, собравшись за ужином, в шутку начинают игру — читать все смс вслух, а на звонки отвечать по громкой связи. Они и представить себе не могут, какие скелеты вылезут из их шкафов и какие удивительные открытия им предстоит сделать.",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Во всё тяжкое",
+      "img": "../../assets/img/timthumb6.jpg",
+      "info": "Профессор колледжа решает жить на полную катушку после того, как ему ставят серьезный диагноз. Отныне все запреты сняты, а тайные желания могут наконец осуществиться!",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Тело Божие (SUB)",
+      "img": "../../assets/img/timthumb7.jpg",
+      "info": "Во время пребывания в молодёжном исправительном центре 20-летний Даниэль переживает духовное преображение. Он хочет стать священником, но его желание не может быть выполнено из-за судимости. Даниэля направляют на работу в столярные мастерские в соседний городок. По дороге он заглядывает в местный костёл и выдаёт себя за священника. Появление в приходе молодого харизматичного проповедника меняет жизнь округи: с подачи Даниэля местные жители начинают изживать коллективную травму, связанную с разыгравшейся здесь трагедией.",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Сквозь снег",
+      "img": "../../assets/img/timthumb8.jpg",
+      "info": "Недалекое будущее. 17 лет назад на планете произошла техногенная катастрофа. Там, где раньше росли леса и цвели сады, теперь лежат снег и лед, и жизнь сохранилась лишь в гигантском поезде, без остановки мчащемся по трансевразийской магистрали. В первых вагонах состава живёт правящая элита, в последних — простые люди. Жизнь в хвосте поезда напоминает концлагерь — болезни, нищета и беспредел надсмотрщиков. Именно здесь из среды униженных и оскорбленных восстает человек, жаждущий восстановить справедливость. Однако у каждой благородной идеи есть своя темная сторона, и любая революция пожирает своих детей.",
+      "places": [
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ],
+        [
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          },
+          {
+            "status": "free"
+          }
+        ]
+      ]
+    }
+  ]
+}

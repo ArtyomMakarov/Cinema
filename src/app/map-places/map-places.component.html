@@ -1,0 +1,36 @@
+<div class="map-container" (mousewheel)="onMouseWheel($event)">
+  <div class="places-area" #mapPlaces>
+    <div class="map-places">
+      <div class="screen">Экран</div>
+      <div class="row" *ngFor="let row of getFilm()[0]?.places; let i=index">
+        <span class="row__number row__number_left">{{i+1}}</span>
+          <div class="row__place" *ngFor="let place of getFilm()[0].places[i]; let b=index" matTooltip="8руб {{i+1}}ряд"
+               matTooltipPosition="above" matTooltipClass="example-tooltip" (mouseenter)="hoverPlace($event, true, b)"
+               (mouseleave)="hoverPlace($event, false, b)" (click)="bookPlace(place, i, b, $event)"
+               [ngStyle]="{'backgroundColor': place.status=='in process'?'blue':(place.status=='blocked'?'grey':'white')}">
+          </div>
+        <span class="row__number row__number_right">{{i+1}}</span>
+      </div>
+    </div>
+    <div class="places-info">
+      <div class="info">
+        <div class="info__place"></div>
+          <span> - Место свободно</span>
+      </div>
+      <div class="info">
+        <div class="info__place info__place_unavailable">
+        </div>
+        <span> - Место занято</span>
+      </div>
+      <div class="info">
+        <div class="info__place info__place_processing">
+        </div>
+        <span> - В процессе бронирования</span>
+      </div>
+      <div class="info">
+        <div class="info__place info__place_booked"></div>
+        <span> - Ваш выбор</span>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,70 @@
+::ng-deep html {
+  margin: 0;
+  height: 100%;
+  body {
+    margin: 0;
+    height: 100%;
+  }
+}
+.wrapper{
+  position: relative;
+  height: 100%;
+}
+.Cinema {
+  width: 1060px;
+  margin: 0 auto;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+
+
+  &__logo{
+    padding: 7px;
+    margin: 40px 0 30px;
+    color: #e5e5e5;
+    font-weight: bolder;
+    background-color: #a70000;
+    width: 107px;
+    border-radius: 6px;
+    text-decoration: unset;
+    display: block;
+      h1{
+        margin: 0;
+        text-align: center;
+        font-weight: 500;
+      }
+  }
+}
+.footer{
+  background: #403a3a;
+  font-size: 11px;
+  font-family: Verdana, sans-serif;
+  width: 1050px;
+  color: white;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  &__contacts{
+    list-style-type: none;
+    margin: 0;
+    li{
+      display: inline-block;
+      margin: 0 5px;
+      background: #524b4b;
+      padding: 3px;
+      border-radius: 3px;
+      width: 25px;
+      height: 25px;
+      &:hover{
+        background: rgba(255, 88, 0, 0.95);
+      }
+    }
+    img{
+      width: 25px;
+      height: 25px;
+    }
+  }
+}

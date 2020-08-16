@@ -1,0 +1,7 @@
+<ul class='pagination'>
+  <li *ngFor="let page of getPages()" class='page-item'>
+    <a  [routerLink]="['/films',page]" routerLinkActive="Active" class='page-link'>
+      {{page}}
+    </a>
+  </li>
+</ul>
